@@ -77,6 +77,6 @@
 - **Username**: `moin@gmail.com`
 - **Password**: `111`
 
-
+To access credentials for database it is inside .env.example file make a direct copy inside your laravel folder named as .env and install composer if any other issue occurs .
 
 Thank you for providing me this opportunity.
